@@ -29,9 +29,9 @@ Advanced memory management handles files up to multiple gigabytes while maintain
 
 # Download Links
 
-[Download For Mac OS](https://islandprosoftware.gumroad.com/l/CSVTSVSplitter)
-[Download For Mac OS (ARM64)](https://islandprosoftware.gumroad.com/l/CSVTSVSplitter)
-[Download For Windows](https://islandprosoftware.gumroad.com/l/CSVTSVSplitter)
+[Download For Mac OS | ](https://github.com/islandprosoftware/csv-tsv-splitter/raw/refs/heads/main/CSV%20TSV%20Splitter_0.1.0_x64.dmg)
+[Download For Mac OS (ARM64) | ](https://github.com/islandprosoftware/csv-tsv-splitter/raw/refs/heads/main/CSV%20TSV%20Splitter_0.1.0_aarch64.dmg)
+[Download For Windows](https://github.com/islandprosoftware/csv-tsv-splitter/raw/refs/heads/main/csv-tsv-splitter.exe)
 
 
 
