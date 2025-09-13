@@ -97,8 +97,8 @@ Advanced memory management handles files up to multiple gigabytes while maintain
             <Application_Info_URL>https://github.com/islandprosoftware/csv-tsv-splitter</Application_Info_URL>
             <Application_Order_URL>https://islandprosoftware.gumroad.com/l/CSVTSVSplitter</Application_Order_URL>
             <Application_Screenshot_URL></Application_Screenshot_URL>
-            <Application_Icon_URL></Application_Icon_URL>
-            <Application_XML_File_URL></Application_XML_File_URL>
+            <Application_Icon_URL>https://raw.githubusercontent.com/islandprosoftware/csv-tsv-splitter/refs/heads/main/icon.png</Application_Icon_URL>
+            <Application_XML_File_URL>https://raw.githubusercontent.com/islandprosoftware/csv-tsv-splitter/refs/heads/main/csv-tsv-splitter.xml</Application_XML_File_URL>
         </Application_URLs>
         <Download_URLs>
             <Primary_Download_URL>https://github.com/islandprosoftware/csv-tsv-splitter/raw/refs/heads/main/CSV%20TSV%20Splitter_0.1.0_x64.dmg</Primary_Download_URL>
